@@ -20,6 +20,9 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
   imageMode(CENTER);
 
+  // text font
+  textFont('museo-sans')
+
   // setup the state machine with callbacks
   simpleStateMachine.setup(setImage, setTransitionNames);
  }
@@ -72,7 +75,7 @@ function keyPressed() {
 //==== MODIFY THIS CODE FOR UI =====/
 
 function drawBackground() {
-  background("#eee0cb");
+  background("#fef6ec");
 }
 
 function drawImage() {
@@ -84,16 +87,18 @@ function drawImage() {
 function drawUI() {
   push();
   textAlign(CENTER);
-  textSize(18);
+  textSize(20);
+  text("What next?", width/2, (height/2 + 150));
 
   for( let i = 0; i < transitions.length; i++ ) {
     fill(0);
 
     if( selectedTransitionNum === i ) {
-      fill('#627641');
+      fill("#9e0031");
       text
     }
-    text( transitions[i], width/2 , (height - 150) + (i*50)  );
+    textSize(18);
+    text(transitions[i], (width/2 - 270) + (i*200), (height/2 + 200), 150);
   }
 
   pop();

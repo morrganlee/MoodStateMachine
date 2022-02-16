@@ -1,20 +1,18 @@
-moodStates
 StateName,PNGFilename,TransitionText,NewState
-Relaxed,assets/relaxed.png,See a cute cat,Excited
+Relaxed,assets/relaxed.png,I see a cute cat,Excited
 Relaxed,assets/relaxed.png,My roommates didn’t wash the dishes so I can't eat,Frustrated
 Relaxed,assets/relaxed.png,Someone knocks on the front door,Shocked
-Angry,assets/angry.png,"Realize the person I was angry at doesn’t care
-",Sad
+Angry,assets/angry.png,I realize the person I was angry at does not care,Sad
 Angry,assets/angry.png,I do some breathing exercises,Relaxed
-Angry,assets/angry.png,Finds somewhere to place anger,Excited
-Sad,assets/sad.png,I don’t know why I'm crying,Frustrated
+Angry,assets/angry.png,I find somewhere to take out anger,Excited
+Sad,assets/sad.png,I can't figure out why I'm crying,Frustrated
 Sad,assets/sad.png,I have cried out all my tears,Relaxed
-Sad,assets/sad.png,See my friends having fun without me,Jealous
+Sad,assets/sad.png,I see my friends having fun without me,Jealous
 Excited,assets/excited.png,This assignment is not as easy as I thought it was,Frustrated
-Excited,assets/excited.png,Watched the news,Angry
-Excited,assets/excited.png,Receive a gift from a loved one,Loving
+Excited,assets/excited.png,Someone likes my best friend but it's the person I like,Angry
+Excited,assets/excited.png,I receive a gift from a loved one,Loving
 Frustrated,assets/frustrated.png,I can't figure out a problem,Angry
-Frustrated,assets/frustrated.png,I figure out a solution to a problem,Excited
+Frustrated,assets/frustrated.png,I figure out a solution,Excited
 Frustrated,assets/frustrated.png,Someone helps me with a problem,Loving
 Shocked,assets/shocked.png,My friend chose someone else for a group project,Jealous
 Shocked,assets/shocked.png,The gift on my bed is from my parents,Loving

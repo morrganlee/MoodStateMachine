@@ -1,0 +1,28 @@
+StateName,PNGFilename,TransitionText,NewState
+Relaxed,assets/relaxed.png,See a cute cat,Excited
+Relaxed,assets/relaxed.png,My roommates didn’t wash the dishes so I can't eat,Frustrated
+Relaxed,assets/relaxed.png,Someone knocks on the front door,Shocked
+Angry,assets/angry.png,"Realize the person I was angry at does not care
+",Sad
+Angry,assets/angry.png,I do some breathing exercises,Relaxed
+Angry,assets/angry.png,Finds somewhere to place anger,Excited
+Sad,assets/sad.png,i can't figure out why I'm crying,Frustrated
+Sad,assets/sad.png,"i have cried out all my tears",Relaxed
+Sad,assets/sad.png,See my friends having fun without me,Jealous
+Excited,assets/excited.png,"This assignment is not as easy as I thought it was
+",Frustrated
+Excited,assets/excited.png,"someone likes my best friend but the person i like
+",Angry
+Excited,assets/excited.png,Receive a gift from a loved one,Loving
+Frustrated,assets/frustrated.png,I can't figure out a problem,Angry
+Frustrated,assets/frustrated.png,I figure out a solution,Excited
+Frustrated,assets/frustrated.png,Someone helps me with a problem,Loving
+Shocked,assets/shocked.png,My friend chose someone else for a group project,Jealous
+Shocked,assets/shocked.png,The gift on my bed is from my parents,Loving
+Shocked,assets/shocked.png,A surprise party! For me!,Excited
+Loving,assets/loving.png,I see my crush talking to someone else,Jealous
+Loving,assets/loving.png,I get rejected,Sad
+Loving,assets/loving.png,I see the card I made for someone in the trash,Angry
+Jealous,assets/jealous.png,My friend lied about being busy with someone else,Angry
+Jealous,assets/jealous.png,The people I’m jealous of don’t care,Frustrated
+Jealous,assets/jealous.png,There is nothing to be jealous about,Relaxed
