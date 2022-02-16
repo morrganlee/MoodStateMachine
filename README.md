@@ -1,6 +1,6 @@
 ## MoodStateMachine
-#### by Scott Kildall
-#### Last updated Jan 24 2022
+#### by Morgan Lee
+#### Last updated Feb 15, 2022
 
 
 ### Overview
