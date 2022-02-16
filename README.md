@@ -4,7 +4,9 @@
 
 
 ### Overview
-This is a simple state machine that displays an image and a series of transitions that can lead to new states. It uses the p5.simpleStateManager.js library file, which does the heavy lifting: loading a CSV file with the various states and transitions in it.
+This is a simple state machine that displays an image and a series of transitions that can lead to new states. This is edited from Mood States by Scott Kidall. Notes are below:
+
+It uses the p5.simpleStateManager.js library file, which does the heavy lifting: loading a CSV file with the various states and transitions in it.
 
 ### Add to your index.html:
 
