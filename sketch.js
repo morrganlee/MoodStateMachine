@@ -94,7 +94,7 @@ function drawUI() {
     fill(0);
 
     if( selectedTransitionNum === i ) {
-      fill("#9e0031");
+      fill("#da8d07");
       text
     }
     textSize(18);
